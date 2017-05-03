@@ -3,9 +3,6 @@ package edu.kytsmen.leetcode.algorithms;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by dmytro on 04.02.17.
- */
 public class FizzBuzz {
     static String fizzBuzz = "FizzBuzz";
     static String fizz = "Fizz";

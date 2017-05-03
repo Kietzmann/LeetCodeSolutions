@@ -1,8 +1,5 @@
 package edu.kytsmen.leetcode.algorithms;
 
-/**
- * Created by dkytsmen on 2/8/17.
- */
 public class MaxConsecutiveOnes {
     public int findMaxConsecutiveOnes(int[] nums) {
         int counter = 0;

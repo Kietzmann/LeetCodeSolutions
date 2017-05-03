@@ -1,8 +1,5 @@
 package edu.kytsmen.leetcode.algorithms;
 
-/**
- * Created by dmytro on 04.02.17.
- */
 public class LinkedListCycle {
     public boolean hasCycle(ListNode head) {
         if (head == null) {

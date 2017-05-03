@@ -1,8 +1,5 @@
 package edu.kytsmen.leetcode.algorithms;
 
-/**
- * Created by dmytro on 06.02.17.
- */
 public class LengthOfTheLastWord {
     public int lengthOfLastWord(String a) {
         int length = 0;

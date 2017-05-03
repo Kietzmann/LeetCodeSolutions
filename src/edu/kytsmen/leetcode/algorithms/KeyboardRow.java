@@ -3,9 +3,6 @@ package edu.kytsmen.leetcode.algorithms;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by dkytsmen on 2/7/17.
- */
 public class KeyboardRow {
     public String[] findWords(String[] words) {
         String[] base = {"qwertyuiop", "asdfghjkl", "zxcvbnm"};

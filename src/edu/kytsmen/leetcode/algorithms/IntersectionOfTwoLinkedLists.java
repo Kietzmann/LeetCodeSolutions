@@ -1,8 +1,5 @@
 package edu.kytsmen.leetcode.algorithms;
 
-/**
- * Created by dmytro on 05.02.17.
- */
 public class IntersectionOfTwoLinkedLists {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         int len1 = 0;

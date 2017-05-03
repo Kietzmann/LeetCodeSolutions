@@ -1,8 +1,5 @@
 package edu.kytsmen.leetcode.algorithms;
 
-/**
- * Created by dmytro on 04.02.17.
- */
 public class RemoveLinkedListElements {
     public ListNode removeElements(ListNode head, int val) {
         while (head != null && head.val == val) head = head.next;

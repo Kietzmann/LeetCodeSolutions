@@ -1,8 +1,5 @@
 package edu.kytsmen.leetcode.algorithms;
 
-/**
- * Created by dmytro on 04.02.17.
- */
 public class ConvertANumberToHexadecimal {
     public String toHex(int dec) {
         if (dec == 0) return "0";

@@ -3,9 +3,6 @@ package edu.kytsmen.leetcode.algorithms;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by dkytsmen on 2/9/17.
- */
 public class IsIsomorphic {
     public boolean isIsomorphic(String s, String t) {
         Map<Character, Character> map = new HashMap<>();

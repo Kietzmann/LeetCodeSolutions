@@ -3,9 +3,6 @@ package edu.kytsmen.leetcode.algorithms;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by dmytro on 05.02.17.
- */
 public class ValidAnagram {
     public boolean isAnagram(String s, String t) {
         if (s.length() != t.length()) {

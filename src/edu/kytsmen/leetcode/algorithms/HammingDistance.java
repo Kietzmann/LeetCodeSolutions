@@ -1,8 +1,5 @@
 package edu.kytsmen.leetcode.algorithms;
 
-/**
- * Created by dkytsmen on 2/7/17.
- */
 public class HammingDistance {
     public int hammingDistance(int x, int y) {
         int res = x ^ y;

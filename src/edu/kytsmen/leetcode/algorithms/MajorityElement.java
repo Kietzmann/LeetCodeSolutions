@@ -1,8 +1,5 @@
 package edu.kytsmen.leetcode.algorithms;
 
-/**
- * Created by dkytsmen on 2/8/17.
- */
 public class MajorityElement {
     public int majorityElement(int[] nums) {
         int result = 0, count = 0;

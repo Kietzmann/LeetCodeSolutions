@@ -1,8 +1,5 @@
 package edu.kytsmen.leetcode.algorithms;
 
-/**
- * Created by dkytsmen on 2/9/17.
- */
 public class RemoveDuplicatesFormSortedArray {
     public int removeDuplicates(int[] nums) {
         if (nums.length < 2)

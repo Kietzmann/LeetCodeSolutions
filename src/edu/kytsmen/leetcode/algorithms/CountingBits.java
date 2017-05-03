@@ -1,8 +1,5 @@
 package edu.kytsmen.leetcode.algorithms;
 
-/**
- * Created by dkytsmen on 2/7/17.
- */
 public class CountingBits {
     public int[] countBits(int num) {
         int[] arr = new int[num + 1];

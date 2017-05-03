@@ -1,8 +1,5 @@
 package edu.kytsmen.leetcode.algorithms;
 
-/**
- * Created by dkytsmen on 2/7/17.
- */
 public class NumberOf1Bits {
     public int hammingWeight(int n) {
         // int counter = 0;

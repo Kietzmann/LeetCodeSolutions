@@ -4,9 +4,6 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by dkytsmen on 2/8/17.
- */
 public class RelativeRanks {
     public String[] findRelativeRanks(int[] nums) {
         int[] ranks = nums.clone();

@@ -2,9 +2,6 @@ package edu.kytsmen.leetcode.algorithms;
 
 import java.util.Arrays;
 
-/**
- * Created by dkytsmen on 2/8/17.
- */
 public class FrequencySort {
     public String frequencySort(String s) {
         int[][] count = new int[256][2];

@@ -1,8 +1,5 @@
 package edu.kytsmen.leetcode.algorithms;
 
-/**
- * Created by dkytsmen on 2/8/17.
- */
 public class IslandPerimeter {
     public int islandPerimeter(int[][] grid) {
         int counter = 0;

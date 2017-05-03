@@ -1,8 +1,5 @@
 package edu.kytsmen.leetcode.algorithms;
 
-/**
- * Created by dmytro on 05.02.17.
- */
 public class LinkedListCycleII {
     public ListNode detectCycle(ListNode head) {
         if (head == null || head.next == null) {

@@ -1,8 +1,5 @@
 package edu.kytsmen.leetcode.algorithms;
 
-/**
- * Created by dkytsmen on 2/7/17.
- */
 public class SearchInsertPosition {
     public int searchInsert(int[] nums, int target) {
         if (nums == null)

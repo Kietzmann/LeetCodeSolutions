@@ -1,9 +1,5 @@
 package edu.kytsmen.leetcode.algorithms;
 
-/**
- * Created by dkytsmen on 2/8/17.
- */
-
 class TreeNode {
     int val;
     TreeNode left;

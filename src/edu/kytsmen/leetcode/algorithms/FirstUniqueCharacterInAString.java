@@ -1,8 +1,5 @@
 package edu.kytsmen.leetcode.algorithms;
 
-/**
- * Created by dkytsmen on 2/7/17.
- */
 public class FirstUniqueCharacterInAString {
     public int firstUniqChar(String s) {
         char[] lettersArray = s.toCharArray();

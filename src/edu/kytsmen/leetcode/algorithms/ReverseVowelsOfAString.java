@@ -3,9 +3,6 @@ package edu.kytsmen.leetcode.algorithms;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by dmytro on 05.02.17.
- */
 public class ReverseVowelsOfAString {
     public String reverseVowels(String s) {
         List<Character> vowList = new ArrayList<Character>();

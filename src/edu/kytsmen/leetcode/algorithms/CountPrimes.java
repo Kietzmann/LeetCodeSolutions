@@ -1,8 +1,5 @@
 package edu.kytsmen.leetcode.algorithms;
 
-/**
- * Created by dmytro on 05.02.17.
- */
 public class CountPrimes {
     public int countPrimes(int n) {
         if (n <= 2)

@@ -1,8 +1,5 @@
 package edu.kytsmen.leetcode.algorithms;
 
-/**
- * Created by dmytro on 06.02.17.
- */
 public class ValidPalindrome {
     public boolean isPalindrome(String s) {
         if (s == null || s.length() == 0) return true;

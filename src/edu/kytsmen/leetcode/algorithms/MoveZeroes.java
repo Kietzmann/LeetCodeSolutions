@@ -1,8 +1,5 @@
 package edu.kytsmen.leetcode.algorithms;
 
-/**
- * Created by dkytsmen on 2/7/17.
- */
 public class MoveZeroes {
     public void moveZeroes(int[] nums) {
         int i = 0;

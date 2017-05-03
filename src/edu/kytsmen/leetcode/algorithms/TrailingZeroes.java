@@ -1,8 +1,5 @@
 package edu.kytsmen.leetcode.algorithms;
 
-/**
- * Created by dmytro on 04.02.17.
- */
 public class TrailingZeroes {
     public int trailingZeroes(int n) {
         long div = n;

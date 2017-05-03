@@ -2,9 +2,6 @@ package edu.kytsmen.leetcode.algorithms;
 
 import java.util.HashSet;
 
-/**
- * Created by dkytsmen on 2/8/17.
- */
 public class IntersectionOfTwoArrays {
     public int[] intersection(int[] nums1, int[] nums2) {
         HashSet<Integer> set1 = new HashSet<>();

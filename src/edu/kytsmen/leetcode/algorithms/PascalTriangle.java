@@ -3,9 +3,6 @@ package edu.kytsmen.leetcode.algorithms;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by dkytsmen on 2/8/17.
- */
 public class PascalTriangle {
     public List<List<Integer>> generate(int numRows) {
         List<List<Integer>> res = new ArrayList<>();

@@ -5,9 +5,6 @@ import java.util.HashSet;
 import java.util.Set;
 import java.util.Stack;
 
-/**
- * Created by dmytro on 04.02.17.
- */
 public class ValidParantheses {
     public boolean isValid(String s) {
         Set<Character> opening = new HashSet<>(Arrays.asList('{', '(', '['));

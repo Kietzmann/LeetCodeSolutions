@@ -1,8 +1,5 @@
 package edu.kytsmen.leetcode.algorithms;
 
-/**
- * Created by dmytro on 05.02.17.
- */
 public class FindTheDifference {
     public char findTheDifference(String s, String t) {
         int n = t.length();

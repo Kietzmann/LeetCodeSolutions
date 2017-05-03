@@ -2,9 +2,6 @@ package edu.kytsmen.leetcode.algorithms;
 
 import java.util.Arrays;
 
-/**
- * Created by dkytsmen on 2/9/17.
- */
 public class LongestPalindrome {
     public int longestPalindrome(String s) {
         char[] sArray = s.toCharArray();
